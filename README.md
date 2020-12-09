@@ -1,1 +1,2 @@
-![Alt Text](https://eneskzlcn.github.io/Tapple/tapple.gif)
+
+![](https://eneskzlcn.github.io/Tapple/tapple.gif)
